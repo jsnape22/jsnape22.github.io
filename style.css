@@ -24,22 +24,22 @@
 
 }
 .title {
-  font-size: 4em;
+  font-size: 10vmin;
   width: 100%;
   color: white;
   position: absolute;
   text-align: center;
   top: 20%}
 
+
+
 #maintitle {
-width:100%;
+width:60%;
+min-width: 400px;
   z-index: 1; 
-  top: 0;
   position:absolute;
-  top:35%;
-  left:30%;
-  transform: translate(-50%, -50%);
- 
+  top:20%;
+;
 
 }
 
@@ -50,7 +50,7 @@ width:100%;
 }
 
 #date {
-  font-size: 3em;
+  font-size: 10vmin;
   color: white;
   text-align: center;
   position:absolute;
@@ -98,9 +98,7 @@ width:100%;
 }
 
 #abouttext {
-   height:30%;
-  width: 50%;
-  margin: auto;
+  
   z-index: 999;
   color:white;
 text-align: center;
