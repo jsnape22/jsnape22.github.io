@@ -35,7 +35,7 @@
 
 #maintitle {
 width:60%;
-min-width: 400px;
+min-width: 350px;
   z-index: 1; 
   position:absolute;
   top:20%;
@@ -102,6 +102,7 @@ min-width: 400px;
   z-index: 999;
   color:white;
 text-align: center;
+top: 10%;
 }
 
 
